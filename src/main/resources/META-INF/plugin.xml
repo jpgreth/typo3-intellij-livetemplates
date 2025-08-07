@@ -1,5 +1,6 @@
 <!-- Plugin Configuration File. Read more: https://plugins.jetbrains.com/docs/intellij/plugin-configuration-file.html -->
 <idea-plugin>
+    <idea-version since-build="243" until-build="252.*"/>
     <id>com.github.misterboe.typo3livetemplates</id>
     <name>TYPO3 Live Templates</name>
     <vendor url="https://www.analog.de">analog</vendor>
